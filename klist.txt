@@ -1,0 +1,5 @@
+Ticket cache: FILE:/tmp/krb5cc_1000
+Default principal: Ahmedmusse@AHMED
+
+Valid starting     Expires            Service principal
+11/02/24 14:36:04  11/03/24 14:36:04  krbtgt/AHMED@AHMED
